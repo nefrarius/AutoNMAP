@@ -25,12 +25,12 @@ With **AutoNMAP**, you can quickly scan local or custom IP ranges, identify open
 To begin using **AutoNMAP**, clone the repository and run the script as follows:
 
 ```bash
-git clone https://github.com/yourusername/AutoNMAP.git
+git clone https://github.com/nefrarius/AutoNMAP.git
 cd AutoNMAP
 python3 autonmap.py
 ```
 
-Alternatively, run the script directly with:
+Alternatively, run the english version of the script directly with:
 
 ```bash
 python3 autonmap_ENG.py
@@ -38,20 +38,7 @@ python3 autonmap_ENG.py
 
 ### Example Commands
 
-- **Quick Local Scan:**
-  ```bash
-  python3 autonmap.py
-  ```
-  Scans your local network (192.168.1.0/24) and reports on active devices and open ports.
-
-- **Custom Range Scan:**
-  ```bash
-  python3 autonmap.py -r 192.168.1.1-255 -p 22-80
-  ```
-  Scans a custom range of IPs and ports.
-
-- **Scheduled Scan:**
-  Set up an automated scan by entering the interval in seconds for periodic scanning.
+Just execute the tool and a menu will appear there with all the options it has.
 
 ### Modifying IP Range for Scanning
 
