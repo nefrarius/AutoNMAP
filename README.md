@@ -27,7 +27,7 @@ To begin using **AutoNMAP**, clone the repository and run the script as follows:
 ```bash
 git clone https://github.com/nefrarius/AutoNMAP.git
 cd AutoNMAP
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 python3 autonmap.py
 ```
 
