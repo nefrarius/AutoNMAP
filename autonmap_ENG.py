@@ -170,7 +170,7 @@ def display_menu():
     print("\033[31m ░  ░   ░                  ░ ░           ░        ░         ░  ░         \033[0m")
 
     print("\033[32m This tool is made for educational and testing purposes. The author of this tool is not responsible for any damage caused by its use.\033[0m")
-    print("\033[31m DONT BE A SKID\033[0m")
+    print("\033[31m github.com/nefrarius\033[0m")
 
 
 
