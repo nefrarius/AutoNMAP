@@ -170,7 +170,7 @@ def mostrar_menu():
     print("\033[31m ░  ░   ░                  ░ ░           ░        ░         ░  ░         \033[0m")
 
     print("\033[32m Esta herramienta esta hecha con fines educativos y de prueba. El autor de esta herramienta no se hace responsable de cualquier daño causado por el uso de esta herramienta.\033[0m")
-    print("\033[31m NO SEAS UN SKID, SI QUIERES AÑADIR CREDITOS A ELLA ADELANTE, PERO DA CREDITOS\033[0m")
+    print("\033[31m github.com/nefrarius\033[0m")
 
     print("1. Escanear la red")
     print("2. Escaneo de la red junto a puertos abiertos")
